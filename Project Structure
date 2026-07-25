@@ -1,0 +1,17 @@
+Football-Match-Analytics-Engine/
+│
+├── app.py
+├── assets/
+│   └── logo.png
+├── data/
+│   ├── metadata.json
+│   └── tracking.jsonl
+├── modules/
+│   ├── possession.py
+│   ├── distance.py
+│   ├── sprint_analysis.py
+│   ├── top_speed.py
+│   ├── team_shape.py
+│   ├── space_control.py
+│   └── report.py
+└── requirements.txt
