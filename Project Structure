@@ -1,0 +1,24 @@
+Football-Match-Analytics-Engine/
+│
+├── data/
+│   ├── metadata.json
+│   ├── tracking.jsonl
+│
+├── notebooks/
+│   └── Match_Analytics_Engine.ipynb
+│
+├── modules/
+│   ├── possession.py
+│   ├── distance.py
+│   ├── sprint_analysis.py
+│   ├── top_speed.py
+│   ├── team_shape.py
+│   ├── space_control.py
+│   ├── dashboard.py
+│   └── report.py
+│
+├── images/
+│
+├── README.md
+├── requirements.txt
+└── LICENSE
