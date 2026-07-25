@@ -80,7 +80,7 @@ Team Compactness	Measures how efficiently a team occupies space
 Space Control	Estimates territorial dominance using player positions
 Match Dashboard	Produces a consolidated match summary
 Automatic Match Report	Generates a written tactical summary
-# Example Dashboard
+
 ============================================================
 # MATCH DASHBOARD
 ============================================================
