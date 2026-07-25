@@ -2,7 +2,7 @@ A Python-based football analytics engine that transforms raw tracking data into 
 
 Built using the SkillCorner Open Tracking Dataset, the project demonstrates how player and ball tracking coordinates can be converted into meaningful performance metrics used by analysts, coaches, and scouting departments.
 
-📌 Project Overview
+# Project Overview
 
 This project processes tracking data from an entire football match and automatically generates:
 
@@ -15,7 +15,7 @@ Automated match report
 
 The engine is designed as a modular analytics pipeline, making it easy to extend with additional football analytics models.
 
-🚀 Features
+# Features
 📊 Match Statistics
 Match Possession Analysis
 Space Control Analysis
@@ -35,7 +35,7 @@ Team Compactness
 📈 Reporting
 Match Dashboard
 Automatic Match Report
-📂 Project Structure
+# Project Structure
 Football-Match-Analytics-Engine/
 │
 ├── data/
@@ -60,14 +60,14 @@ Football-Match-Analytics-Engine/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
-⚙️ Technologies Used
+# Technologies Used
 Python
 NumPy
 Pandas
 SciPy
 Matplotlib
 mplsoccer
-📈 Analytics Modules
+# Analytics Modules
 Module	Description
 Match Possession	Calculates team possession percentages from tracking data
 Distance Covered	Computes total distance covered by every player
@@ -80,9 +80,9 @@ Team Compactness	Measures how efficiently a team occupies space
 Space Control	Estimates territorial dominance using player positions
 Match Dashboard	Produces a consolidated match summary
 Automatic Match Report	Generates a written tactical summary
-📊 Example Dashboard
+# Example Dashboard
 ============================================================
-MATCH DASHBOARD
+# MATCH DASHBOARD
 ============================================================
 
 Possession
@@ -111,11 +111,11 @@ Convex Hull Area
 
 Compactness
 0.640 vs 0.634
-📄 Example Match Insight
+# Example Match Insight
 
 Auckland FC controlled the match with 57.45% possession and 57.34% space control, indicating superiority both on the ball and territorially. The team maintained a slightly wider (37.27 m) and longer (24.15 m) structure, resulting in a larger Convex Hull Area (595.3 m²). Despite this, both teams exhibited very similar compactness, suggesting comparable defensive organization. Physically, both sides covered approximately 97 km, highlighting an evenly matched work rate.
 
-🔮 Future Improvements
+# Future Improvements
 Tactical Analytics
 Voronoi Diagrams
 Pitch Control Model
@@ -138,7 +138,7 @@ AI Match Summary
 Tactical Insights Generator
 Team Style Classification
 Match Comparison Engine
-📚 Dataset
+# Dataset
 
 SkillCorner Open Tracking Dataset
 
@@ -148,12 +148,12 @@ Match metadata
 Player tracking coordinates
 Ball tracking coordinates
 Match timestamps
-👨‍💻 Author
+# Author
 
 Stephen Yaw Ayamah
 
 Data Analyst | Football Analytics | Python | Machine Learning | Sports Analytics
 
-⭐ About This Project
+# About This Project
 
 This project demonstrates how raw tracking coordinates can be transformed into actionable football intelligence. By combining physical metrics, tactical shape analysis, territorial control, and automated reporting, it showcases an end-to-end analytics workflow that mirrors the type of analysis used in modern professional football.
