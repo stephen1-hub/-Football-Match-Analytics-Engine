@@ -111,11 +111,11 @@ Convex Hull Area
 
 Compactness
 0.640 vs 0.634
-# Example Match Insight
+# Match Insight
 
 Auckland FC controlled the match with 57.45% possession and 57.34% space control, indicating superiority both on the ball and territorially. The team maintained a slightly wider (37.27 m) and longer (24.15 m) structure, resulting in a larger Convex Hull Area (595.3 m²). Despite this, both teams exhibited very similar compactness, suggesting comparable defensive organization. Physically, both sides covered approximately 97 km, highlighting an evenly matched work rate.
 
-<img width="760" height="501" alt="image" src="https://github.com/user-attachments/assets/241ade62-0c89-4957-83f0-17e9149ea32b" />
+<img width="783" height="523" alt="image" src="https://github.com/user-attachments/assets/13ed090d-5732-4a78-a5e3-75dbfefb68fc" />
 
 # Future Improvements
 Tactical Analytics
